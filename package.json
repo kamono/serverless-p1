@@ -1,0 +1,28 @@
+{
+  "name": "serverless-p1",
+  "version": "1.0.0",
+  "description": "prototyp",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamono/serverless-p1.git"
+  },
+  "keywords": [
+    "prototype"
+  ],
+  "author": "nate kamono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamono/serverless-p1/issues"
+  },
+  "homepage": "https://github.com/kamono/serverless-p1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "serverless-http": "^1.9.0"
+  }
+}

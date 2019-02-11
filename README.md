@@ -6,4 +6,9 @@ serverless AWS prototype
 3. jump in to your project directory and run npm install -g serverless
 4. run sls create --template  hello-world
     a. this generates the handler.js & serverless.yml file.
-5. 
+5. run npm init then the following commands to download the dependencies.
+    a. npm i --save express
+    b. npm i --save body-parser
+    c. npm i --save  hbs
+    d. npm i --save serverless-http
+6.
